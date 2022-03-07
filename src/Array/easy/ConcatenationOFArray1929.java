@@ -1,3 +1,5 @@
+package Array.easy;
+
 import java.util.Arrays;
 
 public class ConcatenationOFArray1929 {
